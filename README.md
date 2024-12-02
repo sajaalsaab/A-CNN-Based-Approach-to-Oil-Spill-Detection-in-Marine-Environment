@@ -6,7 +6,7 @@ This project presents an approach for oil spill detection using CNNs to classify
 # Dataset
 The Oil Spill Dataset was obtained from Kaggle's repository. It is a meticulously balanced dataset of 4000 RGB images portraying scenes from seas and oceans. Each image varies in size and resolution, capturing a mix of clean environments and instances of oil spills. 
 
-LINK:https://www.kaggle.com/datasets/vighneshanand/oil-spill-dataset-binary-image-classification
+LINK: https://www.kaggle.com/datasets/vighneshanand/oil-spill-dataset-binary-image-classification
 
 
 
