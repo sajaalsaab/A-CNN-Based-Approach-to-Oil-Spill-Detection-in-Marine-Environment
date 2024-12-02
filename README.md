@@ -1,3 +1,6 @@
+![oil-spill](https://github.com/user-attachments/assets/569f5df2-4bd4-43ce-a769-485db59a971c)
+
+
 # Overview
 This project presents an approach for oil spill detection using CNNs to classify images into one of two categories: those containing oil spills and those that do not. By training our CNN on the oil spill dataset, we aim to enhance detection performance by generating a confusion matrix to assess how well the model differentiates between oil spills and non-oil spills.
 
